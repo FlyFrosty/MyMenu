@@ -1,0 +1,98 @@
+[ @file = "/Users/jeffreyforste/Garmin Projects/newTry/source/NewTryApp.mc"; @line = 1; @symbol_importdef<0> = [Toybox,1,7,13]; @symbol_importdef<1> = [Application,1,14,25]; ]
+import Toybox.Application;
+[ @file = "/Users/jeffreyforste/Garmin Projects/newTry/source/NewTryApp.mc"; @line = 2; @symbol_importdef<0> = [Toybox,2,7,13]; @symbol_importdef<1> = [Lang,2,14,18]; ]
+import Toybox.Lang;
+[ @file = "/Users/jeffreyforste/Garmin Projects/newTry/source/NewTryApp.mc"; @line = 3; @symbol_importdef<0> = [Toybox,3,7,13]; @symbol_importdef<1> = [WatchUi,3,14,21]; ]
+import Toybox.WatchUi;
+[ @file = "/Users/jeffreyforste/Garmin Projects/newTry/source/NewTryApp.mc"; @line = 5; @symbol_classdef = [NewTryApp,5,6,15]; @symbol_extends<0> = [Application,5,24,35]; @symbol_extends<1> = [AppBase,5,36,43]; ]
+class NewTryApp extends Application.AppBase {
+    [ @file = "/Users/jeffreyforste/Garmin Projects/newTry/source/NewTryApp.mc"; @line = 5; ]
+    <init> {
+    }
+    [ @file = "/Users/jeffreyforste/Garmin Projects/newTry/source/NewTryApp.mc"; @line = 5; ]
+    static
+    <init> {
+    }
+    [ @file = "/Users/jeffreyforste/Garmin Projects/newTry/source/NewTryApp.mc"; @line = 7; @symbol_functiondef = [initialize,7,13,23]; ]
+    function initialize() as Void {
+_Users_jeffreyforste_Garmin_Projects_newTry_source_NewTryApp_mc_7_26_9_4_start:
+[ "/Users/jeffreyforste/Garmin Projects/newTry/source/NewTryApp.mc" 8 8 ]
+        symbol [ AppBase %tmp.2 8 8 15 ];
+        %tmp.2 = getv ? :AppBase;
+        symbol [ initialize %tmp.3 8 16 26 ];
+        %tmp.3 = getv function %tmp.2 :initialize;
+        invoke %tmp.2 %tmp.3();
+_Users_jeffreyforste_Garmin_Projects_newTry_source_NewTryApp_mc_7_26_9_4_stop:
+    }
+    [ @file = "/Users/jeffreyforste/Garmin Projects/newTry/source/NewTryApp.mc"; @line = 13; @symbol_functiondef = [getInitialView,13,13,27]; @symbol_return<0> = [Views,13,34,39]; @symbol_return<1> = [Views,13,45,50]; @symbol_return<2> = [InputDelegates,13,52,66]; ]
+    function getInitialView() as [Views] or [Views, InputDelegates] {
+_Users_jeffreyforste_Garmin_Projects_newTry_source_NewTryApp_mc_13_68_17_4_start:
+[ "/Users/jeffreyforste/Garmin Projects/newTry/source/NewTryApp.mc" 14 8 ]
+        [ "_Users_jeffreyforste_Garmin_Projects_newTry_source_NewTryApp_mc_13_68_17_4_start" "_Users_jeffreyforste_Garmin_Projects_newTry_source_NewTryApp_mc_13_68_17_4_stop" ]
+        %view.1 = local;
+        symbol [ view %view.1 14 12 16 ];
+        symbol [ NewTryView %tmp.4 14 23 33 ];
+        %tmp.4 = getv ? :NewTryView;
+        %tmp.1 = newc %tmp.4 ();
+        lputv %view.1 %tmp.1;
+        symbol [ view %view.1 14 12 16 ];
+[ "/Users/jeffreyforste/Garmin Projects/newTry/source/NewTryApp.mc" 16 8 ]
+        %tmp.5 = newa 2;
+        %tmp.6 = lgetv %view.1;
+        symbol [ view %tmp.6 16 16 20 ];
+        %tmp.7 = dup %tmp.5;
+        %tmp.8 = aputv %tmp.7 0 %tmp.6;
+        symbol [ NewTryDelegate %tmp.12 16 26 40 ];
+        %tmp.12 = getv ? :NewTryDelegate;
+        %tmp.9 = newc %tmp.12 ();
+        %tmp.13 = dup %tmp.8;
+        %tmp.14 = aputv %tmp.13 1 %tmp.9;
+        ret %tmp.14;
+_Users_jeffreyforste_Garmin_Projects_newTry_source_NewTryApp_mc_13_68_17_4_stop:
+    }
+    [ @file = "/Users/jeffreyforste/Garmin Projects/newTry/source/NewTryApp.mc"; @line = 19; @symbol_functiondef = [getSettingsView,19,13,28]; @symbol_return<0> = [Views,19,35,40]; @symbol_return<1> = [Views,19,46,51]; @symbol_return<2> = [InputDelegates,19,53,67]; ]
+    function getSettingsView() as [Views] or [Views, InputDelegates] or Null {
+_Users_jeffreyforste_Garmin_Projects_newTry_source_NewTryApp_mc_19_77_23_4_start:
+[ "/Users/jeffreyforste/Garmin Projects/newTry/source/NewTryApp.mc" 20 8 ]
+        [ "_Users_jeffreyforste_Garmin_Projects_newTry_source_NewTryApp_mc_19_77_23_4_start" "_Users_jeffreyforste_Garmin_Projects_newTry_source_NewTryApp_mc_19_77_23_4_stop" ]
+        %menu.1 = local;
+        symbol [ menu %menu.1 20 12 16 ];
+        symbol [ NewTrySettingsMenu %tmp.4 20 23 41 ];
+        %tmp.4 = getv ? :NewTrySettingsMenu;
+        %tmp.1 = newc %tmp.4 ();
+        lputv %menu.1 %tmp.1;
+        symbol [ menu %menu.1 20 12 16 ];
+[ "/Users/jeffreyforste/Garmin Projects/newTry/source/NewTryApp.mc" 22 8 ]
+        %tmp.5 = newa 2;
+        %tmp.6 = lgetv %menu.1;
+        symbol [ menu %tmp.6 22 16 20 ];
+        %tmp.7 = dup %tmp.5;
+        %tmp.8 = aputv %tmp.7 0 %tmp.6;
+        symbol [ NewTrySettingsMenuDelegate %tmp.12 22 26 52 ];
+        %tmp.12 = getv ? :NewTrySettingsMenuDelegate;
+        %tmp.13 = lgetv %menu.1;
+        symbol [ menu %tmp.13 22 53 57 ];
+        %tmp.9 = newc %tmp.12 (%tmp.13);
+        %tmp.14 = dup %tmp.8;
+        %tmp.15 = aputv %tmp.14 1 %tmp.9;
+        ret %tmp.15;
+_Users_jeffreyforste_Garmin_Projects_newTry_source_NewTryApp_mc_19_77_23_4_stop:
+    }
+}
+[ @file = "/Users/jeffreyforste/Garmin Projects/newTry/source/NewTryApp.mc"; @line = 27; @symbol_functiondef = [getApp,27,9,15]; @symbol_return<0> = [NewTryApp,27,21,30]; ]
+function getApp() as NewTryApp {
+_Users_jeffreyforste_Garmin_Projects_newTry_source_NewTryApp_mc_27_31_29_0_start:
+[ "/Users/jeffreyforste/Garmin Projects/newTry/source/NewTryApp.mc" 28 4 ]
+    symbol [ Application %tmp.1 28 11 22 ];
+    %tmp.1 = getm $.Toybox.Application;
+    symbol [ getApp %tmp.2 28 23 29 ];
+    %tmp.2 = getv function %tmp.1 :getApp;
+    %tmp.3 = invoke %tmp.1 %tmp.2();
+    %tmp.4 = as %tmp.3 NewTryApp;
+    symbol [ NewTryApp %tmp.4 28 35 44 ];
+    ret %tmp.4;
+_Users_jeffreyforste_Garmin_Projects_newTry_source_NewTryApp_mc_27_31_29_0_stop:
+}
+[ @file = "/Users/jeffreyforste/Garmin Projects/newTry/source/NewTryApp.mc"; @line = 1; ]
+<init> {
+}

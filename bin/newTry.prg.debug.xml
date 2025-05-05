@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+<manifest filename="/Users/jeffreyforste/Garmin Projects/newTry/manifest.xml"/>
+<pcToLineNum>
+<entry filename="/Users/jeffreyforste/Garmin Projects/newTry/source/MyMenuSettings.mc" id="1" lineNum="17" parent="globals/MyMenuSettingsMenu" pc="268435460" symbol="&lt;init&gt;"/>
+<entry filename="/Users/jeffreyforste/Garmin Projects/newTry/source/MyMenuSettings.mc" id="2" lineNum="29" parent="globals/MyMenuSettingsMenuDelegate" pc="268435472" symbol="&lt;init&gt;"/>
+<entry filename="/Users/jeffreyforste/Garmin Projects/newTry/source/MyMenuView.mc" id="3" lineNum="55" parent="globals/MyMenuDelegate" pc="268435484" symbol="&lt;init&gt;"/>
+<entry filename="/Users/jeffreyforste/Garmin Projects/newTry/source/MyMenuApp.mc" id="4" lineNum="27" parent="globals" pc="268435496" symbol="getApp"/>
+<entry filename="/Users/jeffreyforste/Garmin Projects/newTry/source/MyMenuApp.mc" id="4" lineNum="28" parent="globals" pc="268435506" symbol="getApp"/>
+<entry filename="/Users/jeffreyforste/Garmin Projects/newTry/bin/gen/006-B4260-00/source/Rez.mcgen" id="5" lineNum="7" parent="globals/Rez" pc="268435517" symbol="&lt;init&gt;"/>
+<entry filename="/Users/jeffreyforste/Garmin Projects/newTry/source/MyMenuApp.mc" id="6" lineNum="5" parent="globals/MyMenuApp" pc="268435537" symbol="&lt;init&gt;"/>
+<entry filename="/Users/jeffreyforste/Garmin Projects/newTry/source/MyMenuView.mc" id="7" lineNum="8" parent="globals/MyMenuView" pc="268435549" symbol="&lt;init&gt;"/>
+<entry filename="/Users/jeffreyforste/Garmin Projects/newTry/source/MyMenuSettings.mc" id="8" lineNum="9" parent="globals/MyMenuSettings" pc="268435561" symbol="initialize"/>
+<entry filename="/Users/jeffreyforste/Garmin Projects/newTry/source/MyMenuSettings.mc" id="8" lineNum="10" parent="globals/MyMenuSettings" pc="268435563" symbol="initialize"/>
+<entry filename="/Users/jeffreyforste/Garmin Projects/newTry/source/MyMenuSettings.mc" id="8" lineNum="12" parent="globals/MyMenuSettings" pc="268435587" symbol="initialize"/>
+<entry filename="/Users/jeffreyforste/Garmin Projects/newTry/source/MyMenuSettings.mc" id="8" lineNum="12" parent="globals/MyMenuSettings" pc="268435596" symbol="initialize"/>
+<entry filename="/Users/jeffreyforste/Garmin Projects/newTry/source/MyMenuSettings.mc" id="9" lineNum="19" parent="globals/MyMenuSettingsMenu" pc="268435608" symbol="initialize"/>
+<entry filename="/Users/jeffreyforste/Garmin Projects/newTry/source/MyMenuSettings.mc" id="9" lineNum="21" parent="globals/MyMenuSettingsMenu" pc="268435610" symbol="initialize"/>
+<entry filename="/Users/jeffreyforste/Garmin Projects/newTry/source/MyMenuSettings.mc" id="9" lineNum="22" parent="globals/MyMenuSettingsMenu" pc="268435625" symbol="initialize"/>
+<entry filename="/Users/jeffreyforste/Garmin Projects/newTry/source/MyMenuSettings.mc" id="9" lineNum="23" parent="globals/MyMenuSettingsMenu" pc="268435644" symbol="initialize"/>
+<entry filename="/Users/jeffreyforste/Garmin Projects/newTry/source/MyMenuSettings.mc" id="9" lineNum="24" parent="globals/MyMenuSettingsMenu" pc="268435692" symbol="initialize"/>
+<entry filename="/Users/jeffreyforste/Garmin Projects/newTry/source/MyMenuSettings.mc" id="10" lineNum="51" parent="globals/MyMenuSettingsMenuDelegate" pc="268435741" symbol="onBack"/>
+<entry filename="/Users/jeffreyforste/Garmin Projects/newTry/source/MyMenuSettings.mc" id="10" lineNum="53" parent="globals/MyMenuSettingsMenuDelegate" pc="268435743" symbol="onBack"/>
+<entry filename="/Users/jeffreyforste/Garmin Projects/newTry/source/MyMenuSettings.mc" id="10" lineNum="54" parent="globals/MyMenuSettingsMenuDelegate" pc="268435766" symbol="onBack"/>
+<entry filename="/Users/jeffreyforste/Garmin Projects/newTry/source/MyMenuSettings.mc" id="10" lineNum="55" parent="globals/MyMenuSettingsMenuDelegate" pc="268435784" symbol="onBack"/>
+<entry filename="/Users/jeffreyforste/Garmin Projects/newTry/source/MyMenuSettings.mc" id="11" lineNum="33" parent="globals/MyMenuSettingsMenuDelegate" pc="268435800" symbol="initialize"/>
+<entry filename="/Users/jeffreyforste/Garmin Projects/newTry/source/MyMenuSettings.mc" id="11" lineNum="34" parent="globals/MyMenuSettingsMenuDelegate" pc="268435802" symbol="initialize"/>
+<entry filename="/Users/jeffreyforste/Garmin Projects/newTry/source/MyMenuSettings.mc" id="11" lineNum="35" parent="globals/MyMenuSettingsMenuDelegate" pc="268435814" symbol="initialize"/>
+<entry filename="/Users/jeffreyforste/Garmin Projects/newTry/source/MyMenuSettings.mc" id="12" lineNum="38" parent="globals/MyMenuSettingsMenuDelegate" pc="268435824" symbol="onSelect"/>
+<entry filename="/Users/jeffreyforste/Garmin Projects/newTry/source/MyMenuSettings.mc" id="12" lineNum="39" parent="globals/MyMenuSettingsMenuDelegate" pc="268435827" symbol="onSelect"/>
+<entry filename="/Users/jeffreyforste/Garmin Projects/newTry/source/MyMenuSettings.mc" id="12" lineNum="40" parent="globals/MyMenuSettingsMenuDelegate" pc="268435836" symbol="onSelect"/>
+<entry filename="/Users/jeffreyforste/Garmin Projects/newTry/source/MyMenuSettings.mc" id="12" lineNum="41" parent="globals/MyMenuSettingsMenuDelegate" pc="268435853" symbol="onSelect"/>
+<entry filename="/Users/jeffreyforste/Garmin Projects/newTry/source/MyMenuSettings.mc" id="12" lineNum="42" parent="globals/MyMenuSettingsMenuDelegate" pc="268435871" symbol="onSelect"/>
+<entry filename="/Users/jeffreyforste/Garmin Projects/newTry/source/MyMenuSettings.mc" id="12" lineNum="43" parent="globals/MyMenuSettingsMenuDelegate" pc="268435879" symbol="onSelect"/>
+<entry filename="/Users/jeffreyforste/Garmin Projects/newTry/source/MyMenuSettings.mc" id="12" lineNum="45" parent="globals/MyMenuSettingsMenuDelegate" pc="268435889" symbol="onSelect"/>
+<entry filename="/Users/jeffreyforste/Garmin Projects/newTry/source/MyMenuSettings.mc" id="12" lineNum="46" parent="globals/MyMenuSettingsMenuDelegate" pc="268435907" symbol="onSelect"/>
+<entry filename="/Users/jeffreyforste/Garmin Projects/newTry/source/MyMenuSettings.mc" id="12" lineNum="47" parent="globals/MyMenuSettingsMenuDelegate" pc="268435915" symbol="onSelect"/>
+<entry filename="/Users/jeffreyforste/Garmin Projects/newTry/source/MyMenuView.mc" id="13" lineNum="57" parent="globals/MyMenuDelegate" pc="268435923" symbol="initialize"/>
+<entry filename="/Users/jeffreyforste/Garmin Projects/newTry/source/MyMenuView.mc" id="13" lineNum="58" parent="globals/MyMenuDelegate" pc="268435925" symbol="initialize"/>
+<entry filename="/Users/jeffreyforste/Garmin Projects/newTry/source/MyMenuApp.mc" id="14" lineNum="19" parent="globals/MyMenuApp" pc="268435938" symbol="getSettingsView"/>
+<entry filename="/Users/jeffreyforste/Garmin Projects/newTry/source/MyMenuApp.mc" id="14" lineNum="20" parent="globals/MyMenuApp" pc="268435941" symbol="getSettingsView"/>
+<entry filename="/Users/jeffreyforste/Garmin Projects/newTry/source/MyMenuApp.mc" id="14" lineNum="22" parent="globals/MyMenuApp" pc="268435965" symbol="getSettingsView"/>
+<entry filename="/Users/jeffreyforste/Garmin Projects/newTry/source/MyMenuApp.mc" id="15" lineNum="13" parent="globals/MyMenuApp" pc="268436002" symbol="getInitialView"/>
+<entry filename="/Users/jeffreyforste/Garmin Projects/newTry/source/MyMenuApp.mc" id="15" lineNum="14" parent="globals/MyMenuApp" pc="268436005" symbol="getInitialView"/>
+<entry filename="/Users/jeffreyforste/Garmin Projects/newTry/source/MyMenuApp.mc" id="15" lineNum="16" parent="globals/MyMenuApp" pc="268436029" symbol="getInitialView"/>
+<entry filename="/Users/jeffreyforste/Garmin Projects/newTry/source/MyMenuApp.mc" id="16" lineNum="7" parent="globals/MyMenuApp" pc="268436064" symbol="initialize"/>
+<entry filename="/Users/jeffreyforste/Garmin Projects/newTry/source/MyMenuApp.mc" id="16" lineNum="8" parent="globals/MyMenuApp" pc="268436066" symbol="initialize"/>
+<entry filename="/Users/jeffreyforste/Garmin Projects/newTry/source/MyMenuView.mc" id="17" lineNum="48" parent="globals/MyMenuView" pc="268436079" symbol="getSettingsView"/>
+<entry filename="/Users/jeffreyforste/Garmin Projects/newTry/source/MyMenuView.mc" id="17" lineNum="49" parent="globals/MyMenuView" pc="268436082" symbol="getSettingsView"/>
+<entry filename="/Users/jeffreyforste/Garmin Projects/newTry/source/MyMenuView.mc" id="17" lineNum="50" parent="globals/MyMenuView" pc="268436106" symbol="getSettingsView"/>
+<entry filename="/Users/jeffreyforste/Garmin Projects/newTry/source/MyMenuView.mc" id="18" lineNum="20" parent="globals/MyMenuView" pc="268436143" symbol="onLayout"/>
+<entry filename="/Users/jeffreyforste/Garmin Projects/newTry/source/MyMenuView.mc" id="18" lineNum="22" parent="globals/MyMenuView" pc="268436145" symbol="onLayout"/>
+<entry filename="/Users/jeffreyforste/Garmin Projects/newTry/source/MyMenuView.mc" id="18" lineNum="23" parent="globals/MyMenuView" pc="268436159" symbol="onLayout"/>
+<entry filename="/Users/jeffreyforste/Garmin Projects/newTry/source/MyMenuView.mc" id="19" lineNum="13" parent="globals/MyMenuView" pc="268436174" symbol="initialize"/>
+<entry filename="/Users/jeffreyforste/Garmin Projects/newTry/source/MyMenuView.mc" id="19" lineNum="14" parent="globals/MyMenuView" pc="268436176" symbol="initialize"/>
+<entry filename="/Users/jeffreyforste/Garmin Projects/newTry/source/MyMenuView.mc" id="19" lineNum="15" parent="globals/MyMenuView" pc="268436188" symbol="initialize"/>
+<entry filename="/Users/jeffreyforste/Garmin Projects/newTry/source/MyMenuView.mc" id="19" lineNum="16" parent="globals/MyMenuView" pc="268436212" symbol="initialize"/>
+<entry filename="/Users/jeffreyforste/Garmin Projects/newTry/source/MyMenuView.mc" id="19" lineNum="16" parent="globals/MyMenuView" pc="268436221" symbol="initialize"/>
+<entry filename="/Users/jeffreyforste/Garmin Projects/newTry/source/MyMenuView.mc" id="20" lineNum="28" parent="globals/MyMenuView" pc="268436233" symbol="onUpdate"/>
+<entry filename="/Users/jeffreyforste/Garmin Projects/newTry/source/MyMenuView.mc" id="20" lineNum="30" parent="globals/MyMenuView" pc="268436236" symbol="onUpdate"/>
+<entry filename="/Users/jeffreyforste/Garmin Projects/newTry/source/MyMenuView.mc" id="20" lineNum="31" parent="globals/MyMenuView" pc="268436248" symbol="onUpdate"/>
+<entry filename="/Users/jeffreyforste/Garmin Projects/newTry/source/MyMenuView.mc" id="20" lineNum="33" parent="globals/MyMenuView" pc="268436302" symbol="onUpdate"/>
+<entry filename="/Users/jeffreyforste/Garmin Projects/newTry/source/MyMenuView.mc" id="20" lineNum="34" parent="globals/MyMenuView" pc="268436314" symbol="onUpdate"/>
+<entry filename="/Users/jeffreyforste/Garmin Projects/newTry/source/MyMenuView.mc" id="20" lineNum="37" parent="globals/MyMenuView" pc="268436322" symbol="onUpdate"/>
+<entry filename="/Users/jeffreyforste/Garmin Projects/newTry/source/MyMenuView.mc" id="20" lineNum="38" parent="globals/MyMenuView" pc="268436330" symbol="onUpdate"/>
+<entry filename="/Users/jeffreyforste/Garmin Projects/newTry/source/MyMenuView.mc" id="20" lineNum="39" parent="globals/MyMenuView" pc="268436348" symbol="onUpdate"/>
+<entry filename="/Users/jeffreyforste/Garmin Projects/newTry/source/MyMenuView.mc" id="20" lineNum="41" parent="globals/MyMenuView" pc="268436368" symbol="onUpdate"/>
+<entry filename="/Users/jeffreyforste/Garmin Projects/newTry/source/MyMenuView.mc" id="20" lineNum="42" parent="globals/MyMenuView" pc="268436386" symbol="onUpdate"/>
+<entry filename="/Users/jeffreyforste/Garmin Projects/newTry/source/MyMenuView.mc" id="20" lineNum="44" parent="globals/MyMenuView" pc="268436402" symbol="onUpdate"/>
+</pcToLineNum>
+<symbolTable>
+<entry id="8388639" module="true" symbol="Graphics"/>
+<entry id="10" object="true" symbol="MyMenuView"/>
+<entry field="true" id="11" symbol="menuSelector"/>
+<entry id="8388632" method="true" symbol="&lt;init&gt;"/>
+<entry field="true" id="13" symbol="wHeight"/>
+<entry id="9" object="true" symbol="MyMenuSettingsMenuDelegate"/>
+<entry id="5" object="true" symbol="MyMenuApp"/>
+<entry field="true" id="8388611" module="true" symbol="Toybox"/>
+<entry field="true" id="16" symbol="AppName"/>
+<entry id="4" module="true" symbol="globals/Rez/Strings"/>
+<entry id="8388648" module="true" symbol="WatchUi"/>
+<entry id="8389081" method="true" symbol="onBack"/>
+<entry id="2" module="true" symbol="globals/Rez"/>
+<entry id="8389124" method="true" symbol="onUpdate"/>
+<entry id="8388771" module="true" object="true" symbol="Drawables"/>
+<entry id="8389275" method="true" symbol="getApp"/>
+<entry id="8389122" method="true" symbol="onLayout"/>
+<entry field="true" id="12" symbol="classView"/>
+<entry id="3" module="true" symbol="globals/Rez/Drawables"/>
+<entry id="8388644" module="true" symbol="System"/>
+<entry id="8389619" method="true" symbol="onSelect"/>
+<entry id="8388769" module="true" object="true" symbol="Rez"/>
+<entry id="7" object="true" symbol="MyMenuSettings"/>
+<entry id="8388640" module="true" symbol="Lang"/>
+<entry field="true" id="15" symbol="LauncherIcon"/>
+<entry id="8388610" symbol="statics"/>
+<entry id="8389350" module="true" symbol="globals"/>
+<entry id="8388770" module="true" object="true" symbol="Strings"/>
+<entry field="true" id="14" symbol="wWidth"/>
+<entry id="8388702" method="true" symbol="initialize"/>
+<entry id="8391703" method="true" symbol="getSettingsView"/>
+<entry id="8389280" method="true" symbol="getInitialView"/>
+<entry id="6" object="true" symbol="MyMenuDelegate"/>
+<entry id="8" object="true" symbol="MyMenuSettingsMenu"/>
+<entry id="8388635" module="true" symbol="Application"/>
+</symbolTable>
+<localVars>
+<entry arg="true" endPc="268435823" name="topView" stackId="1" startPc="268435800"/>
+<entry arg="true" endPc="268435922" name="item" stackId="1" startPc="268435824"/>
+<entry endPc="268435921" name="id" stackId="2" startPc="268435827"/>
+<entry endPc="268436001" name="menu" stackId="1" startPc="268435941"/>
+<entry endPc="268436063" name="view" stackId="1" startPc="268436005"/>
+<entry endPc="268436142" name="menu" stackId="1" startPc="268436082"/>
+<entry arg="true" endPc="268436173" name="dc" stackId="1" startPc="268436143"/>
+<entry arg="true" endPc="268436434" name="dc" stackId="1" startPc="268436233"/>
+<entry endPc="268436433" name="clockTime" stackId="2" startPc="268436236"/>
+<entry endPc="268436433" name="timeString" stackId="3" startPc="268436236"/>
+</localVars>
+<deviceInfo deviceVersion="7b60046ebc6cbbbfd1a31636a2da0520945bb7b1" partNumber="006-B4260-00"/>
+<annotations>
+<annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="LauncherIcon"/>
+<annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="AppName"/>
+</annotations>
+<dataEntryOffsetMappings>
+<dataEntry label="globals" offset="49" parentId="" symbolId="globals" type="module"/>
+<dataEntry label="globals/MyMenuSettings" offset="161" parentId="globals" symbolId="MyMenuSettings" type="class"/>
+<dataEntry label="globals/MyMenuSettingsMenu" offset="205" parentId="globals" symbolId="MyMenuSettingsMenu" type="class"/>
+<dataEntry label="globals/MyMenuSettingsMenuDelegate" offset="249" parentId="globals" symbolId="MyMenuSettingsMenuDelegate" type="class"/>
+<dataEntry label="globals/MyMenuDelegate" offset="320" parentId="globals" symbolId="MyMenuDelegate" type="class"/>
+<dataEntry label="globals/Rez" offset="364" parentId="globals" symbolId="Rez" type="module"/>
+<dataEntry label="globals/MyMenuApp" offset="408" parentId="globals" symbolId="MyMenuApp" type="class"/>
+<dataEntry label="globals/MyMenuView" offset="470" parentId="globals" symbolId="MyMenuView" type="class"/>
+<dataEntry label="globals/Rez/Drawables" offset="559" parentId="Rez" symbolId="Drawables" type="module"/>
+<dataEntry label="globals/Rez/Strings" offset="594" parentId="Rez" symbolId="Strings" type="module"/>
+</dataEntryOffsetMappings>
+<functions>
+<functionEntry accessMode="public" name="&lt;init&gt;" parent="MyMenuSettings">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268435471" name="&lt;init&gt;" parent="MyMenuSettingsMenu" startPc="268435460">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268435483" name="&lt;init&gt;" parent="MyMenuSettingsMenuDelegate" startPc="268435472">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268435495" name="&lt;init&gt;" parent="MyMenuDelegate" startPc="268435484">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268435516" name="getApp" startPc="268435496">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268435536" name="&lt;init&gt;" parent="Rez" startPc="268435517">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268435548" name="&lt;init&gt;" parent="MyMenuApp" startPc="268435537">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268435560" name="&lt;init&gt;" parent="MyMenuView" startPc="268435549">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268435607" name="initialize" parent="MyMenuSettings" startPc="268435561">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268435740" name="initialize" parent="MyMenuSettingsMenu" startPc="268435608">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268435799" name="onBack" parent="MyMenuSettingsMenuDelegate" startPc="268435741">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268435823" name="initialize" parent="MyMenuSettingsMenuDelegate" startPc="268435800">
+<param id="topView"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268435922" name="onSelect" parent="MyMenuSettingsMenuDelegate" startPc="268435824">
+<param id="item"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268435937" name="initialize" parent="MyMenuDelegate" startPc="268435923">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="&lt;init&gt;" parent="Drawables">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="&lt;init&gt;" parent="Strings">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268436001" name="getSettingsView" parent="MyMenuApp" startPc="268435938">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268436063" name="getInitialView" parent="MyMenuApp" startPc="268436002">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268436078" name="initialize" parent="MyMenuApp" startPc="268436064">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268436142" name="getSettingsView" parent="MyMenuView" startPc="268436079">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268436173" name="onLayout" parent="MyMenuView" startPc="268436143">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268436232" name="initialize" parent="MyMenuView" startPc="268436174">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268436434" name="onUpdate" parent="MyMenuView" startPc="268436233">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+</functions>
+</debugInfo>
